@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Build folders
+build/
+bin/
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
